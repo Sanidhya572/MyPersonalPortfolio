@@ -2,6 +2,9 @@
 
 Welcome to my portfolio website! This project showcases my skills, experiences, and projects in a visually appealing and interactive manner. 
 
+![image](https://github.com/Sanidhya572/MyPersonalPortfolio/assets/84410647/cba890a2-eef4-4ff7-808c-bf902af99638)
+
+
 ### Technologies Used:
 - **HTML**: Used for structuring the web pages.
 - **CSS**: Utilized for styling and enhancing the visual appeal of the website.
